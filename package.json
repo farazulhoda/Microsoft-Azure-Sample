@@ -1,24 +1,19 @@
 {
-  "name": "express-on-azure",
-  "version": "1.0.0",
-  "description": "A sample application for Azure using the Express framework",
-  "main": "server.js",
+  "name": "microsoft-azure-sample",
+  "version": "1.0.1",
+  "description": "This is a very simple Node application that uses the Express framework. It is designed to work well with [Visual Studio Code](https://code.visualstudio.com) and to be easily deployed to [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/), Azure's fully-managed Platform as a Service (PaaS) that let's you deploy and scale web, mobile, and API apps.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/vscode-tas-express.git"
+    "url": "git+https://github.com/farazulhoda/Microsoft-Azure-Sample.git"
   },
-  "author": "Brian Terlson",
-  "license": "MIT",
+  "author": "Farazul Hoda",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/vscode-tas-express/issues"
+    "url": "https://github.com/farazulhoda/Microsoft-Azure-Sample/issues"
   },
-  "homepage": "https://github.com/microsoft/vscode-tas-express#readme",
-  "dependencies": {
-    "cookie-parser": "^1.4.3",
-    "express": "^4.16.3",
-    "request": "^2.88.0"
-  }
+  "homepage": "https://github.com/farazulhoda/Microsoft-Azure-Sample#readme"
 }
